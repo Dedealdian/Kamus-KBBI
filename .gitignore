@@ -1,15 +1,14 @@
-# Jangan unggah database (berisi data user)
+# SEMBUNYIKAN SCRIPT BOT (Sangat Rahasia)
+kamus.py
+
+# SEMBUNYIKAN DATABASE (Data User)
 kamus_premium.db
 
-# Jangan unggah file kamus yang besar
-list_10.0.0.txt
+# SEMBUNYIKAN TOKEN (Jika ada file config)
+.env
+config.py
 
-# Jangan unggah folder virtual environment
+# SEMBUNYIKAN LOG DAN CACHE
 venv/
-
-# Jangan unggah cache python
 __pycache__/
-*.pyc
-
-# Jangan unggah log PM2
 *.log
