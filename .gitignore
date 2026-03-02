@@ -1,0 +1,15 @@
+# Jangan unggah database (berisi data user)
+kamus_premium.db
+
+# Jangan unggah file kamus yang besar
+list_10.0.0.txt
+
+# Jangan unggah folder virtual environment
+venv/
+
+# Jangan unggah cache python
+__pycache__/
+*.pyc
+
+# Jangan unggah log PM2
+*.log
